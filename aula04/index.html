@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Formulários</title>
+</head>
+<body>
+    <form>
+        <h1> Formulário </h1>
+        <h3>Aceita os termos? </h3>
+        <input type="checkbox" name="aceite"
+        value="sim"> Aceito 
+        <br>
+        <h3>Selecione o gênero </h3>
+        <input type="radio" name="genero"
+        value="f"> Feminino 
+
+        <input type="radio" name="genero"
+        value="m"> Masculino
+
+        <input type="radio" name="genero"
+        value="outro"> Outro <br>
+
+        
+        <h3>Enviar documento</h3>
+        <input type="file" name="foto_perfil">
+
+        <br><br><br>
+
+        <select name="assunto">
+            <option value="duvida"> Dúvida</option>
+            <option value="elogio"> Elogio </option>
+            <option value="reclamacao"> Reclamação </option>
+        </select>
+
+      
+        <br>
+        <h4> Digite uma mensagem </h4>
+        <textarea name="mensagem" rows="5" placeholder="Escreva sua mensagem"> </textarea>
+
+        <button type="submit"> Enviar </button>
+    </form>
+    
+</body>
+</html>

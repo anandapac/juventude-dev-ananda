@@ -1,0 +1,17 @@
+.cartao{
+    padding: 2rem;
+    border: 1px solid #96c;
+    border-radius: 16px;
+    box-shadow: 0 8px 20px rgba(15,, 23,  42, .15) ;
+    background: linear-gradient(135deg, #b169c7, #fe34fe, #693a69) ;
+}
+
+.cartao .botao{
+    display: inline-block;
+    padding: .75rem 1.25em;
+    background: #580c85;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+
+}

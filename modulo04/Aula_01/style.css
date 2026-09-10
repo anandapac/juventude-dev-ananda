@@ -1,0 +1,65 @@
+body {
+  background: #ead4f8;
+  font-family: Arial, sans-serif;
+}
+
+
+#titulo {
+  color: #39117a;
+}
+
+.bio {
+  color: #960ab9;
+  font-size: 1rem;
+}
+
+.apresentacao {
+  color: rgb(79, 12, 134);
+  background: #ccb0da;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 55px;
+  text-align: left
+}
+
+
+/*.destaque{
+  background: rgb(9, 255, 0);
+}*/
+
+#titulo{
+  font-size: 32px;
+}
+
+.cartao {
+  color: rgb(132, 63, 141);
+  width: 320px;
+  padding: 8px;
+  border: 2px solid #93c;
+  margin: 16px auto;
+  background: rgb(245, 220, 245);
+  border: 6px solid #960ab9;
+
+
+}
+
+.interesses > li{
+  color: rgb(103, 48, 155);
+}
+
+a[href="#"]{
+  color: purple;
+}
+
+html{font-size: 16px;}
+.cartao{
+    width: 90%;
+    max-widht: 420px;
+    padding:  1.5rem;
+    border-width: 1px;
+}
+#titulo{font-size: 2rem; }
+
+body{min-height:100vh;}
+
+
+

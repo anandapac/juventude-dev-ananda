@@ -1,0 +1,28 @@
+body{
+    background-color: aliceblue;
+}
+.coluna1 {
+    padding-left: 15rem;
+    padding-top: 10rem;
+
+}
+
+.coluna1 #texto1{
+    font-size: 4rem;
+
+}
+
+.coluna1 #texto2{
+    font-size:1rem;
+}
+
+.coluna2{
+    padding-right: 15rem;
+    padding-top: 10rem;
+
+}
+
+.cards{
+    border-color: black;
+}
+

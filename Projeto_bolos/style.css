@@ -1,9 +1,19 @@
 body{
-    font-family: "Urbanist", sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-optical-sizing: auto;
     font-style: normal;
 }
 
-.titulo{
-    font-size: 7rem;
+.inicio img{
+    height: 450px;
+}
+
+.menu{
+    background-color:  #f7d9ed;
+}
+
+.botao{
+    background-color: #f7d9ed;
+    
+
 }
